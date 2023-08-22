@@ -1,17 +1,18 @@
 <img src="https://www.ntia.gov/themes/custom/ntia_uswds//img/NTIAlogo-official.svg" alt="NTIA Logo" width="50em" align="center">
 
 # NTIA-Performance-and-Data-Analytics-on-GitHub
-### Welcome to the Performance and Data Analytics (NTIA-OICG) GitHub page 
+### Welcome to the Performance and Data Analytics team (NTIA-OICG) on GitHub. 
+
+#### [*Search All Performance and Data Analytics Repos*](https://github.com/orgs/NBAMGIS/repositories?q=&type=public)
 
 ---
 ## Purpose:
 
-#### Below you will find links to projects and sample code developed by the Performance and Data Analytics team.
+#### Below you will find direct links to projects and sample code developed by the Performance and Data Analytics team (NTIA-OICG).
 
 ---
 
-## GutHub Repos
-
+## GitHub Repos
 ### BEAD:
 
 1. [BEAD: Location Max Service Level Sample Notebook](https://nbamgis.github.io/BEAD-Location-Max-Service-Level-Sample-Notebook)
