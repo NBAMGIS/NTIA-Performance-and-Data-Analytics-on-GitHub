@@ -1,6 +1,6 @@
 <img src="https://www.ntia.gov/themes/custom/ntia_uswds//img/NTIAlogo-official.svg" alt="NTIA Logo" width="50em" align="center">
 
-# Performance-and-Data-Analytics
+# Performance & Data Analytics
 #### Welcome to Performance and Data Analytics team on GitHub where you will find direct links to projects and sample code developed by the Performance and Data Analytics team (NTIA-OICG). 
 
 #### [*Search All Performance and Data Analytics Repos*](https://github.com/orgs/NBAMGIS/repositories?q=&type=public)
