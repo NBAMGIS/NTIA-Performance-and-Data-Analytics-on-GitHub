@@ -11,6 +11,7 @@
 ### BEAD:
 
 1. [BEAD: Location Max Service Level Sample Notebook](https://nbamgis.github.io/BEAD-Location-Max-Service-Level-Sample-Notebook)
+2. [BEAD: Location Fabric BDC Processing ToolBox for ArcGIS](https://nbamgis.github.io/Location_Fabric_BDC_Processing_ToolBox/)
 
 ---
 
